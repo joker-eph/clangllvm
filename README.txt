@@ -18,8 +18,14 @@ The main modules of the repository are:
   * television: An LLVM Visualiation Suite
   * test-suite: A Test Suite For LLVM
 
-Some Useful URLS
-================
+To view the contents of any module, use a URL in your web browser like this:
+
+  http://llvm.org/svn/llvm-project/{module}/trunk
+
+and replace {module} with the module name from the list above.
+
+Some Other Useful URLS
+======================
 
 Please use the following URLs to discover more about the LLVM projects. You
 can copy and paste these URLs into your browser.
